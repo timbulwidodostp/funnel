@@ -1,6 +1,8 @@
 # funnel
 Contour-enhanced funnel plots made using funnel With In R Software
 
+https://www.youtube.com/watch?v=UY59trjI4so
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
